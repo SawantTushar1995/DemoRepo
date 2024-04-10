@@ -1,4 +1,4 @@
 # DemoRepo
 This is my first git test repo
 <br>
-Owner: Tushar Sawant
+Owner: Tushar Nagnath Sawant
